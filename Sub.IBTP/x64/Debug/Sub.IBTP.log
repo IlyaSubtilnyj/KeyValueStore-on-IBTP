@@ -1,0 +1,7 @@
+﻿  ibtp_tree.c
+D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\src\ibtp_tree.c(412,9): warning C4101: root: неиспользованная локальная переменная
+D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\src\ibtp_tree.c(401,9): warning C4101: old_root: неиспользованная локальная переменная
+D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\src\ibtp_tree.c(461,48): warning C4047: функция: "mem_dump *" отличается по уровням косвенного обращения от "mem_dump (*)[3]"
+D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\src\ibtp_tree.c(461,40): warning C4024: ibtp_node_split_3: различные типы для формального и фактического параметров 2
+D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\src\ibtp_tree.c(300): warning C4715: ibtp_tree_delete: значение возвращается не при всех путях выполнения
+  Sub.IBTP.vcxproj -> D:\workspace\Visual_Studio_workspace\Net\x64\Debug\Sub.IBTP.dll

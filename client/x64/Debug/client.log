@@ -1,0 +1,13 @@
+﻿  btree_realization_file_mapping.c
+D:\workspace\Visual_Studio_workspace\Net\client\btree_realization_file_mapping.c(38,7): warning C4244: функция: преобразование "DWORDLONG" в "DWORD", возможна потеря данных
+D:\workspace\Visual_Studio_workspace\Net\client\btree_realization_file_mapping.c(56,33): warning C4244: инициализация: преобразование "DWORDLONG" в "int", возможна потеря данных
+D:\workspace\Visual_Studio_workspace\Net\client\btree_realization_file_mapping.c(177,57): warning C4133: функция: несовместимые типы - из "btptr *" в "const unsigned char *"
+D:\workspace\Visual_Studio_workspace\Net\client\btree_realization_file_mapping.c(189,57): warning C4133: функция: несовместимые типы - из "btptr *" в "const unsigned char *"
+D:\workspace\Visual_Studio_workspace\Net\client\btree_realization_file_mapping.c(207,32): warning C4244: инициализация: преобразование "btptr" в "int", возможна потеря данных
+D:\workspace\Visual_Studio_workspace\Net\client\btree_realization_file_mapping.c(222,57): warning C4133: функция: несовместимые типы - из "btptr *" в "const unsigned char *"
+D:\workspace\Visual_Studio_workspace\Net\client\btree_realization_file_mapping.c(249,32): warning C4244: инициализация: преобразование "UINT64" в "int", возможна потеря данных
+D:\workspace\Visual_Studio_workspace\Net\client\btree_realization_file_mapping.c(384,57): warning C4133: функция: несовместимые типы - из "btptr *" в "const unsigned char *"
+  main.c
+  Создание кода...
+D:\workspace\Visual_Studio_workspace\Net\client\btree_realization_file_mapping.c(212): warning C4715: pageGetMapped: значение возвращается не при всех путях выполнения
+  client.vcxproj -> D:\workspace\Visual_Studio_workspace\Net\x64\Debug\client.exe

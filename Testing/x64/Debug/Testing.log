@@ -1,0 +1,6 @@
+﻿D:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (client-test.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+D:\workspace\Visual_Studio_workspace\Net\Testing\main.cpp(122,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\workspace\Visual_Studio_workspace\Net\Testing\main.cpp(151,51): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\workspace\Visual_Studio_workspace\Net\Testing\main.cpp(152,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Testing.vcxproj -> D:\workspace\Visual_Studio_workspace\Net\x64\Debug\Testing.exe

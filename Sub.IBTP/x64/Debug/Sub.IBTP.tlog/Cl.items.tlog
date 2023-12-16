@@ -1,0 +1,14 @@
+D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\dllmain.cpp;D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\x64\Debug\dllmain.obj
+D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\pch.cpp;D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\x64\Debug\pch.obj
+D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\src\binary_little_endian.c;D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\x64\Debug\binary_little_endian.obj
+D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\src\btree_realization_file_mapping.c;D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\x64\Debug\btree_realization_file_mapping.obj
+D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\src\dynamic_array.c;D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\x64\Debug\dynamic_array.obj
+D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\src\free_list.c;D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\x64\Debug\free_list.obj
+D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\src\ibtp.c;D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\x64\Debug\ibtp.obj
+D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\src\ibtp_h.c;D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\x64\Debug\ibtp_h.obj
+D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\src\ibtp_node.c;D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\x64\Debug\ibtp_node.obj
+D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\src\ibtp_tree.c;D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\x64\Debug\ibtp_tree.obj
+D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\src\logger.c;D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\x64\Debug\logger.obj
+D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\src\map.c;D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\x64\Debug\map.obj
+D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\src\mem_dump.c;D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\x64\Debug\mem_dump.obj
+D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\src\utils.c;D:\workspace\Visual_Studio_workspace\Net\Sub.IBTP\x64\Debug\utils.obj

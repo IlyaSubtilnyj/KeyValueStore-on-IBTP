@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="links">
+      <UniqueIdentifier>{14cf2b6a-3a3c-4571-9b51-cee6456c71ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\net">
+      <UniqueIdentifier>{7ce8f4eb-728f-496b-afb5-1c619eaad38f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\logging">
+      <UniqueIdentifier>{acfd3692-ef3c-4ce8-9297-f5903706469e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\net">
+      <UniqueIdentifier>{d51d7d72-0fd4-481f-846a-78ebd49a0cfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\config">
+      <UniqueIdentifier>{01849b5d-109f-4c88-a6f4-52d1840f47bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\logging">
+      <UniqueIdentifier>{58b0bbf0-17b8-4165-89ec-353856b2d013}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\utils">
+      <UniqueIdentifier>{d21cc76b-0acc-4d09-8751-d03bd149adb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\utils">
+      <UniqueIdentifier>{ec81e424-4efe-4750-8468-89597a3b370d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\ibtp">
+      <UniqueIdentifier>{6ce050f6-6221-4b62-b773-3dafdefb2f99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\ibtp">
+      <UniqueIdentifier>{1c94aa56-8e74-40e0-be5f-e1eeef7c872a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tests">
+      <UniqueIdentifier>{6d8b61a2-24b0-4b67-b2e1-797edd72736b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="structs">
+      <UniqueIdentifier>{b7e6f7ab-db37-4d49-92d4-24ca1380099a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="deprecated">
+      <UniqueIdentifier>{dcdd2876-f24d-40ea-bb9c-5c44ca83982b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="net.c">
+      <Filter>Исходные файлы\net</Filter>
+    </ClCompile>
+    <ClCompile Include="net_h.c">
+      <Filter>Исходные файлы\net</Filter>
+    </ClCompile>
+    <ClCompile Include="lib.c">
+      <Filter>Исходные файлы\net</Filter>
+    </ClCompile>
+    <ClCompile Include="logger\logger.c">
+      <Filter>Исходные файлы\logging</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.c">
+      <Filter>Исходные файлы\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="ibtp.c">
+      <Filter>Исходные файлы\ibtp</Filter>
+    </ClCompile>
+    <ClCompile Include="binary_little_endian.c">
+      <Filter>Исходные файлы\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="ibtp_h.c">
+      <Filter>Исходные файлы\ibtp</Filter>
+    </ClCompile>
+    <ClCompile Include="ibtp_node.c">
+      <Filter>Исходные файлы\ibtp</Filter>
+    </ClCompile>
+    <ClCompile Include="mem_dump.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="btree_interface_test.c">
+      <Filter>tests</Filter>
+    </ClCompile>
+    <ClCompile Include="map.c">
+      <Filter>structs</Filter>
+    </ClCompile>
+    <ClCompile Include="dynamic_array.c">
+      <Filter>structs</Filter>
+    </ClCompile>
+    <ClCompile Include="btree_realization_file_mapping.c">
+      <Filter>Исходные файлы\ibtp</Filter>
+    </ClCompile>
+    <ClCompile Include="free_list.c">
+      <Filter>Исходные файлы\ibtp</Filter>
+    </ClCompile>
+    <ClCompile Include="ibtp_tree.c">
+      <Filter>Исходные файлы\ibtp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="data\winsock_tutorial.html">
+      <Filter>links</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="config.h">
+      <Filter>Файлы заголовков\config</Filter>
+    </ClInclude>
+    <ClInclude Include="lib.h">
+      <Filter>Файлы заголовков\net</Filter>
+    </ClInclude>
+    <ClInclude Include="logger\logger.h">
+      <Filter>Файлы заголовков\logging</Filter>
+    </ClInclude>
+    <ClInclude Include="net.h">
+      <Filter>Файлы заголовков\net</Filter>
+    </ClInclude>
+    <ClInclude Include="net_h.h">
+      <Filter>Файлы заголовков\net</Filter>
+    </ClInclude>
+    <ClInclude Include="user_config.h">
+      <Filter>Файлы заголовков\config</Filter>
+    </ClInclude>
+    <ClInclude Include="vconfig.h">
+      <Filter>Файлы заголовков\config</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>Файлы заголовков\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="binary_little_endian.h">
+      <Filter>Файлы заголовков\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ibtp.h">
+      <Filter>Файлы заголовков\ibtp</Filter>
+    </ClInclude>
+    <ClInclude Include="ibtp_node.h">
+      <Filter>Файлы заголовков\ibtp</Filter>
+    </ClInclude>
+    <ClInclude Include="ibtp_h.h">
+      <Filter>Файлы заголовков\ibtp</Filter>
+    </ClInclude>
+    <ClInclude Include="mem_dump.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="btree_interface_test.h">
+      <Filter>tests</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\c++ libraries\glfw-3.3.8.bin.WIN32\include\GLFW\glfw3.h">
+      <Filter>links</Filter>
+    </ClInclude>
+    <ClInclude Include="map.h">
+      <Filter>structs</Filter>
+    </ClInclude>
+    <ClInclude Include="dynamic_array.h">
+      <Filter>structs</Filter>
+    </ClInclude>
+    <ClInclude Include="ibtp_tree.h">
+      <Filter>Файлы заголовков\ibtp</Filter>
+    </ClInclude>
+    <ClInclude Include="free_list.h">
+      <Filter>Файлы заголовков\ibtp</Filter>
+    </ClInclude>
+    <ClInclude Include="btree_realization_file_mapping.h">
+      <Filter>Файлы заголовков\ibtp</Filter>
+    </ClInclude>
+    <ClInclude Include="mem_dump_list.h">
+      <Filter>deprecated</Filter>
+    </ClInclude>
+    <ClInclude Include="file_mapping_extension_map_file.h">
+      <Filter>deprecated</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

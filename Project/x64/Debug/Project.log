@@ -1,0 +1,22 @@
+﻿  MainWindow.cpp
+D:\workspace\Visual_Studio_workspace\Net\Project\MainWindow.cpp(135,28): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\workspace\Visual_Studio_workspace\Net\Project\MainWindow.cpp(142,50): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\workspace\Visual_Studio_workspace\Net\Project\MainWindow.cpp(146,137): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\workspace\Visual_Studio_workspace\Net\Project\MainWindow.cpp(148,131): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\workspace\Visual_Studio_workspace\Net\Project\MainWindow.cpp(150,131): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\workspace\Visual_Studio_workspace\Net\Project\MainWindow.cpp(152,131): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\workspace\Visual_Studio_workspace\Net\Project\MainWindow.cpp(154,135): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\workspace\Visual_Studio_workspace\Net\Project\MainWindow.cpp(156,130): warning C4312: приведение типов: преобразование из "const int" в "HMENU" большего размера
+D:\workspace\Visual_Studio_workspace\Net\Project\MainWindow.cpp(165,71): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\workspace\Visual_Studio_workspace\Net\Project\MainWindow.cpp(293,24): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+D:\workspace\Visual_Studio_workspace\Net\Project\MainWindow.cpp(304,32): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+D:\workspace\Visual_Studio_workspace\Net\Project\MainWindow.cpp(311,42): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\workspace\Visual_Studio_workspace\Net\Project\MainWindow.cpp(342,28): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+D:\workspace\Visual_Studio_workspace\Net\Project\MainWindow.cpp(349,38): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\workspace\Visual_Studio_workspace\Net\Project\MainWindow.cpp(389,28): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+D:\workspace\Visual_Studio_workspace\Net\Project\MainWindow.cpp(396,38): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Project.vcxproj -> D:\workspace\Visual_Studio_workspace\Net\x64\Debug\Project.exe
